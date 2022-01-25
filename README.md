@@ -96,5 +96,5 @@ Example output
 ```
 
 Ideally, I'd run this sim on all 5757 words to figure out what's the best/worst, but at its current state, that would take
-two months to run :o
+one day to run :o
 
